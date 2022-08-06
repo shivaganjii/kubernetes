@@ -1,0 +1,2 @@
+# kubernetes
+installation by kubeadm
