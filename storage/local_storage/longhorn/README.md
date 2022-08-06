@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/82608620/183246873-0ef3b9a3-0ac3-4ecc-b0ae-aa739df47bea.png)
+
+
 # Install Longhorn by helm;
 1- add repository:
 
