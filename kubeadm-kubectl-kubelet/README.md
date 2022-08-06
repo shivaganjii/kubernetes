@@ -168,9 +168,11 @@ Your cluster is ready.
 
 I want install Calico:
 
-	$ curl -O https://docs.projectcalico.org/v3.20/manifests/calico.yaml
-
 	$ kubectl create -f calico.yaml
+
+Or you can download other version:
+
+	$ curl -O https://docs.projectcalico.org/$Other_Version/manifests/calico.yaml  ### Put the desired version ###
 
 # Copy TLS to master2 and master3;
 
