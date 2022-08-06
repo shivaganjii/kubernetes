@@ -1,5 +1,7 @@
 # Install rook storage;
 
+	$ git clone --single-branch --branch release-1.7 https://github.com/rook/rook.git
+
 	$ cd rook/cluster/examples/kubernetes/api
 
 	$ nano operator.yaml
